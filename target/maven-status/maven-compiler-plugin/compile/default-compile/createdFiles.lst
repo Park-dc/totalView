@@ -1,0 +1,10 @@
+rentalsvc/TotalViewRepository.class
+rentalsvc/Application.class
+rentalsvc/RentalRequested.class
+rentalsvc/config/kafka/KafkaProcessor.class
+rentalsvc/TotalViewController.class
+rentalsvc/PolicyHandler.class
+rentalsvc/FeeReceived.class
+rentalsvc/AbstractEvent.class
+rentalsvc/TotalView.class
+rentalsvc/InventoryStockShortage.class
